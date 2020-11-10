@@ -19,7 +19,7 @@ echo "\033[35;1m5.""\033[36;1mLazada"
 echo "\033[35;1m6.""\033[36;1mShopee"
 echo "\033[35;1m7.""\033[36;1mCustom"
 echo "\033[31;1m0.Keluar"
-echo "\033[37;1m8.""\033[30;1mInformasi Tool Ini"
+echo "\033[31;1m8.""\033[30;1mInformasi Tool Ini"
 echo "\033[33;1mPilih Angka:"
 read mrrm
 
@@ -125,7 +125,7 @@ if
 then
 clear
 toilet -f slant --gay "S U S"
-echo "\033[34;1mContact:""\033[37;1mhttps://m.facebook.com/arbi0510"
+echo "\033[34;1mContact    :""\033[37;1mhttps://m.facebook.com/arbi0510"
 sleep 1
 echo "\033[35;1mPemograman : Bash"
 sleep 1
@@ -136,7 +136,7 @@ sleep 1
 echo "\033[36;1mTeam       : Lahat Of The City"
 sleep 1
 echo "\033[31;1mMY YOUTUBE"
-echo "\033[37;1mHARRY ARBI"
+echo "HARRY ARBI"
 echo "LIKE"
 echo "SHARE"
 echo "COMENTS"
@@ -151,6 +151,6 @@ if
 then
 echo "\033[31;1mKeluar"
 sleep 1
-echo "\033[32;1mSee You Nets Time"
+echo "\033[32;1mSee You Nexts Time"
 sleep 1
 fi
