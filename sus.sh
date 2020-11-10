@@ -121,21 +121,22 @@ smsid boom -y
 fi
 
 if
-[ $mrrm = 81 ] || [ $mrrm = 81 ]
+[ $mrrm = 8 ] || [ $mrrm = 8 ]
 then
 clear
 toilet -f slant --gay "S U S"
-echo "\033[34;1mContact:""\033[37;1m https://m.facebook.com/arbi0510"
+echo "\033[34;1mContact:""\033[37;1mhttps://m.facebook.com/arbi0510"
 sleep 1
-echo "\033[35;1mPemograman :""\033[36;1m Bash"
-sleel 1
+echo "\033[35;1mPemograman : Bash"
+sleep 1
 echo "\033[33;1mKarya      : Hry Ar"
 sleep 1
 echo "\033[32;1mVersi      : v5.0"
 sleep 1
 echo "\033[36;1mTeam       : Lahat Of The City"
 sleep 1
-echo "\033[31;1mSUBSCRIBE YOUTUBE""\033[37;1m HARRY ARBI"
+echo "\033[31;1mMY YOUTUBE"
+echo "\033[37;1mHARRY ARBI"
 echo "LIKE"
 echo "SHARE"
 echo "COMENTS"
