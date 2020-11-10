@@ -10,6 +10,7 @@ toilet -f slant --gay "S U S"
 sleep 1
 echo "\033[34;1m★" "\033[34;1mSPAM UNLIMITED SMS" "\033[34;1m★"
 sleep 1
+echo
 echo "\033[32;1mSpam Yang Tersedia :"
 sleep 1
 echo "\033[35;1m1.""\033[36;1mGoJek"
