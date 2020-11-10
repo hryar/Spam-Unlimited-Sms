@@ -8,7 +8,7 @@ clear
 
 toilet -f slant --gay "S U S"
 sleep 1
-echo "\033[36;1m★""\033[34;1mSPAM UNLIMITED SMS""\033[36;1m★"
+echo "\033[34;1m★" "\033[34;1mSPAM UNLIMITED SMS" "\033[34;1m★"
 sleep 1
 echo "\033[32;1mSpam Yang Tersedia :"
 sleep 1
@@ -24,7 +24,7 @@ echo "\033[35;1m5.""\033[36;1mLazada"
 sleep 1
 echo "\033[35;1m6.""\033[36;1mShopee"
 sleep 1
-echo "\033[35;1m7.""\033[36;1mCustom"
+echo "\033[35;1m7.""\033[36;1mCUSTOM"
 sleep 1
 echo "\033[31;1m8.""\033[30;1mInformasi Tools Ini"
 sleep 1
@@ -119,7 +119,7 @@ if
 [ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
-toilet -f slant --gay "COSTOM"
+toilet -f slant --gay "CUSTOM"
 echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
 echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman :""\033[37;1mBerjalan Langsung Pada DalvikVM"
@@ -146,11 +146,17 @@ sleep 1
 echo "\033[36;1mTeam       : Lahat Of The City"
 sleep 1
 echo "\033[31;1mYOUTUBE MY CHANNEL"
+sleep 3
 echo "\033[30;1mHARRY ARBI"
+sleep 1
 echo "LIKE"
+sleep 1
 echo "SHARE"
+sleep 1
 echo "COMENTS"
+sleep 1
 echo "SUBSCRIBE"
+sleep 1
 echo "THANKS YOU"
 sleep 5
 fi
