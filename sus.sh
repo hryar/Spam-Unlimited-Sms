@@ -11,15 +11,25 @@ sleep 1
 echo "\033[36;1m★""\033[34;1mMacam-Macam Tools Spam""\033[36;1m★"
 sleep 1
 echo "\033[32;1mSpam Yang Tersedia :"
+sleep 1
 echo "\033[35;1m1.""\033[36;1mGoJek"
+sleep 1
 echo "\033[35;1m2.""\033[36;1mGrab"
+sleep 1
 echo "\033[35;1m3.""\033[36;1mBukalapak"
+sleep 1
 echo "\033[35;1m4.""\033[36;1mTokopedia"
+sleep 1
 echo "\033[35;1m5.""\033[36;1mLazada"
+sleep 1
 echo "\033[35;1m6.""\033[36;1mShopee"
+sleep 1
 echo "\033[35;1m7.""\033[36;1mCustom"
+sleep 1
 echo "\033[31;1m8.""\033[30;1mInformasi Tools Ini"
+sleep 1
 echo "\033[31;1m0.""\033[30;1mKeluar"
+sleep 1
 echo "\033[33;1mPilih Angka:"
 read mrrm
 
@@ -135,7 +145,7 @@ echo "\033[32;1mVersi      : v5.0"
 sleep 1
 echo "\033[36;1mTeam       : Lahat Of The City"
 sleep 1
-echo "\033[31;1mMY YOUTUBE"
+echo "\033[31;1mYOUTUBE MY CHANNEL"
 echo "\033[30;1mHARRY ARBI"
 echo "LIKE"
 echo "SHARE"
