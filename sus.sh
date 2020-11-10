@@ -27,9 +27,9 @@ echo "\033[35;1m6.""\033[36;1mShopee"
 sleep 1
 echo "\033[35;1m7.""\033[36;1mCUSTOM"
 sleep 1
-echo "\033[31;1m8.""\033[30;1mInformasi Tools Ini"
+echo "\033[31;1m8.""\033[33;1mInformasi Tools Ini"
 sleep 1
-echo "\033[31;1m0.""\033[30;1mKeluar"
+echo "\033[31;1m0.""\033[33;1mKeluar"
 sleep 1
 echo "\033[32;1mPilih Angka :"
 read mrrm
@@ -148,7 +148,7 @@ echo "\033[36;1mTeam       : Lahat Of The City"
 sleep 1
 echo "\033[31;1mYOUTUBE MY CHANNEL"
 sleep 3
-echo "\033[30;1mHARRY ARBI"
+echo "\033[37;1mHARRY ARBI"
 sleep 1
 echo "LIKE"
 sleep 1
@@ -167,6 +167,6 @@ if
 then
 echo "\033[31;1mKeluar"
 sleep 1
-echo "\033[34;1mSampai Jumpa !"
+echo "\033[33;1mSampai Jumpa !"
 sleep 1
 fi
