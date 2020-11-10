@@ -6,11 +6,9 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "unlimitedsms"
+toilet -f slant --gay "S U S"
 sleep 1
-echo "\033[33;1mMacam-Macam Tools Spam"
-sleep 1
-echo "\033[36;1m★""\033[34;1mHry Ar""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1mMacam-Macam Tools Spam""\033[36;1m★"
 sleep 1
 echo "\033[32;1mSpam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mGoJek"
@@ -29,13 +27,12 @@ if [ $mrrm = 1 ] || [ $mrrm = 1 ]
 then
 clear
 toilet -f slant "GoJek"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mHry Ar"
+echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
+echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman :""\033[37;1mPHP"
+echo "\033[31;1mAuthor     :""\033[37;1mHry Ar"
 sleep 5
 clear
-cd $HOME/unlimitedsms/Tul/
 php 1
 fi
 
@@ -44,14 +41,13 @@ if
 then
 clear
 echo "\033[31;1m"
-toilet "Grab"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mHry Ar"
+toilet -f slant "Grab"
+echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
+echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman :""\033[37;1mPHP"
+echo "\033[31;1mAuthor     :""\033[37;1mHry Ar"
 sleep 5
 clear
-cd $HOME/unlimitedsms/Tul/
 php 2.php
 fi
 
@@ -59,42 +55,39 @@ if [ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
 clear
 echo "\033[36;1m"
-figlet "Bukalapak"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mHry Ar"
+toilet -f slant "Bukalapak"
+echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
+echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman :""\033[37;1mPHP"
+echo "\033[31;1mAuthor     :""\033[37;1mHry Ar"
 sleep 5
 clear
-cd $HOME/unlimitedsms/Tul/
 php 3.php
 fi
 
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
-toilet -f slant -F gay "Tokopedia"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mHry Ar"
+toilet -f slant "Tokopedia"
+echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
+echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman :""\033[37;1mPHP"
+echo "\033[31;1mAuthor     :""\033[37;1mHry Ar"
 sleep 5
 clear
-cd $HOME/unlimitedsms/Tul/
 php 4.php
 fi
 
 if [ $mrrm = 5 ] || [ $mrrm = 5 ]
 then
 clear
-toilet -f slant -F gay "Lazada"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mHry Ar"
+toilet -f slant "Lazada"
+echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
+echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman :""\033[37;1mPHP"
+echo "\033[31;1mAuthor     :""\033[37;1mHry Ar"
 sleep 5
 clear
-cd $HOME/unlimitedsms/Tul/
 php 5.php
 fi
 
@@ -102,14 +95,13 @@ if
 [ $mrrm = 6 ] || [ $mrrm = 6 ]
 then
 clear
-toilet -f slant -F gay "Shopee"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mHry Ar"
+toilet -f slant "Shopee"
+echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
+echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman :""\033[37;1mPHP"
+echo "\033[31;1mAuthor     :""\033[37;1mHry Ar"
 sleep 5
 clear
-cd $HOME/unlimitedsms/Tul/
 php 6.php
 fi
 
@@ -117,12 +109,11 @@ if
 [ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
-toilet -f slant --gay "SMSID"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
-echo "\033[31;1mAuthor:""\033[37;1mHry Ar"
-echo
+toilet -f slant --gay "COSTOM"
+echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
+echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman :""\033[37;1mBerjalan Langsung Pada DalvikVM"
+echo "\033[31;1mAuthor     :""\033[37;1mHry Ar"
 echo
 echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/smsid-java/"
 sleep 5
@@ -133,16 +124,16 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "unlimitedsms"
+toilet -f slant --gay "S U S"
 echo "\033[34;1mContact:""\033[37;1m https://m.facebook.com/arbi0510"
 sleep 1
-echo "\033[35;1mPemograman:""\033[36;1m Bash"
+echo "\033[35;1mPemograman :""\033[36;1m Bash"
 sleel 1
-echo "\033[33;1mKarya: Hry Ar"
+echo "\033[33;1mKarya      : Hry Ar"
 sleep 1
-echo "\033[32;1mVersi: v5.0"
+echo "\033[32;1mVersi      : v5.0"
 sleep 1
-echo "\033[36;1mTeam: Gumay Talang"
+echo "\033[36;1mTeam       : Lahat Of The City"
 sleep 1
 echo "\033[31;1mSUBSCRIBE YOUTUBE""\033[37;1m HARRY ARBI"
 echo "LIKE"
@@ -152,7 +143,6 @@ echo "SUBSCRIBE"
 echo "THANKS YOU"
 echo "\033[30;1m tunggu 5 detik"
 sleep 5
-sh unlimitedsms.sh
 fi
 
 if
@@ -160,6 +150,6 @@ if
 then
 echo "\033[31;1m Keluar"
 sleep 1
-echo "\033[32;1m See You Nets Time :)"
+echo "\033[32;1m See You Nets Time"
 sleep 1
 fi
