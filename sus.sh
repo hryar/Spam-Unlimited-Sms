@@ -31,7 +31,7 @@ echo "\033[31;1m8.""\033[30;1mInformasi Tools Ini"
 sleep 1
 echo "\033[31;1m0.""\033[30;1mKeluar"
 sleep 1
-echo "\033[32;1mPilih Angka:"
+echo "\033[32;1mPilih Angka :"
 read mrrm
 
 if [ $mrrm = 1 ] || [ $mrrm = 1 ]
@@ -167,6 +167,6 @@ if
 then
 echo "\033[31;1mKeluar"
 sleep 1
-echo "\033[34;1mSampai Jumpa!"
+echo "\033[34;1mSampai Jumpa !"
 sleep 1
 fi
