@@ -18,15 +18,15 @@ echo "\033[35;1m4.""\033[36;1mTokopedia"
 echo "\033[35;1m5.""\033[36;1mLazada"
 echo "\033[35;1m6.""\033[36;1mShopee"
 echo "\033[35;1m7.""\033[36;1mCustom"
-echo "\033[31;1m0.Keluar"
-echo "\033[31;1m8.""\033[30;1mInformasi Tool Ini"
+echo "\033[31;1m8.""\033[30;1mInformasi Tools Ini"
+echo "\033[31;1m0.""\033[30;1mKeluar"
 echo "\033[33;1mPilih Angka:"
 read mrrm
 
 if [ $mrrm = 1 ] || [ $mrrm = 1 ]
 then
 clear
-toilet -f slant "GoJek"
+toilet -f slant --gay "GoJek"
 echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
 echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman :""\033[37;1mPHP"
@@ -41,7 +41,7 @@ if
 then
 clear
 echo "\033[31;1m"
-toilet -f slant "Grab"
+toilet -f slant --gay "Grab"
 echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
 echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman :""\033[37;1mPHP"
@@ -55,7 +55,7 @@ if [ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
 clear
 echo "\033[36;1m"
-toilet -f slant "Bukalapak"
+toilet -f slant --gay "Bukalapak"
 echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
 echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman :""\033[37;1mPHP"
@@ -68,7 +68,7 @@ fi
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
-toilet -f slant "Tokopedia"
+toilet -f slant --gay "Tokopedia"
 echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
 echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman :""\033[37;1mPHP"
@@ -81,7 +81,7 @@ fi
 if [ $mrrm = 5 ] || [ $mrrm = 5 ]
 then
 clear
-toilet -f slant "Lazada"
+toilet -f slant --gay "Lazada"
 echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
 echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman :""\033[37;1mPHP"
@@ -95,7 +95,7 @@ if
 [ $mrrm = 6 ] || [ $mrrm = 6 ]
 then
 clear
-toilet -f slant "Shopee"
+toilet -f slant --gay "Shopee"
 echo "\033[31;1mJenis Spam :""\033[37;1mSMS"
 echo "\033[31;1mBatas      :""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman :""\033[37;1mPHP"
@@ -125,7 +125,7 @@ if
 then
 clear
 toilet -f slant --gay "S U S"
-echo "\033[34;1mContact    :""\033[37;1mhttps://m.facebook.com/arbi0510"
+echo "\033[34;1mContact    : https://m.facebook.com/arbi0510"
 sleep 1
 echo "\033[35;1mPemograman : Bash"
 sleep 1
@@ -136,13 +136,13 @@ sleep 1
 echo "\033[36;1mTeam       : Lahat Of The City"
 sleep 1
 echo "\033[31;1mMY YOUTUBE"
-echo "HARRY ARBI"
+echo "\033[30;1mHARRY ARBI"
 echo "LIKE"
 echo "SHARE"
 echo "COMENTS"
 echo "SUBSCRIBE"
 echo "THANKS YOU"
-echo "\033[30;1m tunggu 5 detik"
+echo "\033[30;1mtunggu 5 detik"
 sleep 5
 fi
 
