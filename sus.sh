@@ -149,8 +149,8 @@ fi
 if
 [ $mrrm = 0 ] || [ $mrrm = 0 ]
 then
-echo "\033[31;1m Keluar"
+echo "\033[31;1mKeluar"
 sleep 1
-echo "\033[32;1m See You Nets Time"
+echo "\033[32;1mSee You Nets Time"
 sleep 1
 fi
